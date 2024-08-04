@@ -62,10 +62,9 @@ Step 6.  For direct S3 access to data in Earthdata Cloud, you need AWS S3 creden
         <img src='images/Screenshot_EDSC_S3_links_credentials.png' alt='Screenshot of S3 links and credentials'/>
     </center>
 </figure>
-    
-### Using links and credentials from the command line
 
-Now that you have the S3 links and credentials you can download the data using the [AWS Command Line Interface (CLI)](https://aws.amazon.com/cli/).  This is shown in the [NASA Earthdata Cloud Access Guide](https://nsidc.org/data/user-resources/help-center/nasa-earthdata-cloud-data-access-guide).
+You now have the information you need to access data in NASA Earthdata Cloud.
 
-[!IMPORTANT]  
-As of writing the AWS CLI is not installed on CryoCloud.
+### Next up!  Using the earthaccess Python library to access data.  earthaccess can access data from NASA DAAC servers, as well as NASA Earthdata Cloud, and *you don't need to worry about S3 links or credentials - it's all handled for you.*
+
+
