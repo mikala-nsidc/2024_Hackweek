@@ -39,7 +39,7 @@ ___
 
 <figure>
 <center> 
-<img width="80%"" src='./images/atl06_landing_page.jpg'/>
+<img width="80%"" src='./images/atl06_landing_page.png'/>
 </center>
 </figure>
 
