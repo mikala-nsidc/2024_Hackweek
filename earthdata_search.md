@@ -45,7 +45,13 @@ Step 3. You can now select the dataset you want by clicking on that dataset.  Th
 
 ### Getting https download urls, S3 links, and AWS S3 Credentials
 
-Step 4.  A Download Status window will appear (this may take a short amount of time) similar to the one shown below. 
+Step 4.  A Download Status window will appear (this may take a short amount of time) similar to the one shown below. NASA will continue to support free download of data via https links.
+
+<figure>
+    <center>
+        <img src='images/EDSC_https_download_urls.png' alt='Screenshot of getting S3 links'/>
+    </center>
+</figure>
 
 Step 5.  For direct S3 access, you will need the S3 object links.  You will see a tab for **AWS S3 Access** (Box 1 in the screenshot below).  Select this tab.  A list of S3 links starting with `s3://` will be in the box below.  You can save them to a text file or copy them to your clipboard using the **Save** and **Copy** buttons (Box 2 in the screenshot below).  Or you can copy each link separately by hovering over a link and clicking the clipboard icon (Box 3).
 
