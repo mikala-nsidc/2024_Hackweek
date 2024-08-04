@@ -4,8 +4,9 @@
 
 In this tutorial you will learn how to:
 
+- discover and download DAAC server hosted datasets using NASA Earthdata Search.
 - discover cloud-hosted datasets using NASA Earthdata Search.  
-- get AWS S3 credentials so you can access this data
+- get AWS S3 credentials so you can access Earthdata data
 - get the S3 links to data granules
 
 ## Prerequisites
@@ -16,8 +17,9 @@ In this tutorial you will learn how to:
 
 NASA Earthdata Search is a web-based tool to discover, filter, visualize and access all of NASA's Earth science data, both in Earthdata Cloud and archived at the NASA DAACs.  It is a useful first step in data discovery, especially if you are not sure what data is available for your research problem.
 
-This tutorials is based on the NSIDC [NASA Earthdata Cloud Access Guide](https://nsidc.org/data/user-resources/help-center/nasa-earthdata-cloud-data-access-guide).  Take a look at this access guide if you want more information and also to learn how to use command line tools to download cloud-hosted data from an S3 bucket.
+## Searching for and downloading DAAC server hosted data using Earthdata Search
 
+Follow the instructions in this NSIDC help article:  [Search, Order, and Customize NSIDC DAAC Data Using NASA Earthdata Search](https://nsidc.org/data/user-resources/help-center/search-order-and-customize-nsidc-daac-data-nasa-earthdata-search).
 
 ## Searching for data and S3 links using Earthdata Search
 
@@ -41,11 +43,13 @@ Step 3. You can now select the dataset you want by clicking on that dataset.  Th
     </center>
 </figure>
 
-### Getting S3 links and AWS S3 Credentials
+### Getting https download urls, S3 links, and AWS S3 Credentials
 
-Step 4.  A Download Status window will appear (this may take a short amount of time) similar to the one shown below.  You will see a tab for **AWS S3 Access** (Box 1 in the screenshot below).  Select this tab.  A list of S3 links starting with `s3://` will be in the box below.  You can save them to a text file or copy them to your clipboard using the **Save** and **Copy** buttons (Box 2 in the screenshot below).  Or you can copy each link separately by hovering over a link and clicking the clipboard icon (Box 3).
+Step 4.  A Download Status window will appear (this may take a short amount of time) similar to the one shown below. 
 
-Step 5.  To access data in Earthdata Cloud, you need AWS S3 credentials; “accessKeyId”, “secretAccessKey”, and “sessionToken”.  These are temporary credentials that last for one hour.  To get them click on the **Get AWS S3 Credentials** (Box 4 in the screenshot below).   This will open a new page that contains the three credentials.  
+Step 5.  For direct S3 access, you will need the S3 object links.  You will see a tab for **AWS S3 Access** (Box 1 in the screenshot below).  Select this tab.  A list of S3 links starting with `s3://` will be in the box below.  You can save them to a text file or copy them to your clipboard using the **Save** and **Copy** buttons (Box 2 in the screenshot below).  Or you can copy each link separately by hovering over a link and clicking the clipboard icon (Box 3).
+
+Step 6.  For direct S3 access to data in Earthdata Cloud, you need AWS S3 credentials; “accessKeyId”, “secretAccessKey”, and “sessionToken”.  These are temporary credentials that last for one hour.  To get them click on the **Get AWS S3 Credentials** (Box 4 in the screenshot below).   This will open a new page that contains the three credentials.  
 
 <figure>
     <center>
