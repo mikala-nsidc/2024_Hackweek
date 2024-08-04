@@ -45,7 +45,7 @@ Step 3. You can now select the dataset you want by clicking on that dataset.  Th
 
 ### Getting https download urls, S3 links, and AWS S3 Credentials
 
-Step 4.  A Download Status window will appear (this may take a short amount of time) similar to the one shown below. NASA will continue to support free download of data via https links.
+Step 4.  A Download Status window will appear (this may take a short amount of time) similar to the one shown below. NASA will continue to support free download of data via https links.  Simply click the https link to initiate a single file download, click the "Download Files" button to download the entire list, or go to the Download Script tab and use the provided download script.
 
 <figure>
     <center>
