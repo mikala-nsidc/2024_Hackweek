@@ -1,8 +1,8 @@
+<figure>
 <center>
-<img src='./images/nsidc_logo.png'/>
-
-# NSIDC Data Discovery, Visualization, and Access Resources
+   <img align="center" src='./images/nsidc_logo.png'/>
 </center>
+</figure>
 
 **Credits**
 Mikala Beig, Gail Reckase, Andy Barrett, Amy Steiker, and Luis Lopez
@@ -21,8 +21,12 @@ ___
 
 [The National Snow and Ice Data Center](https://nsidc.org) provides over 1100 data sets covering the Earth's cryosphere and more, all of which are available to the public free of charge. Beyond providing these data, NSIDC creates tools for data access, supports data users, performs scientific research, and educates the public about the cryosphere. 
 
-<img align="left" width="50%" height="200px" src='./images/DAAC_map_with_ECS.jpg'/>
-
+<figure>
+<center>
+   <img width="80%" src='./images/DAAC_map_with_ECS.jpg'/>
+</center>
+</figure>
+   
 ### Data Discovery Resources at nsidc.org:
 
 * [The NSIDC ICESat-2 home page](https://nsidc.org/data/icesat-2) provides an overview of the data products and user resources available. 
@@ -32,8 +36,12 @@ ___
 * Landing pages: Each data set has an associated landing page with citation information, a curated user guide, and support documentation.
     * [ATL06 landing page](https://nsidc.org/data/atl06)
     * [SNEX23_MAR22_SD landing page](https://nsidc.org/data/snex23_mar22_sd)
- 
-<img align="left" width="50%" height="200px" src='./images/atl06_landing_page.jpg'/>
+
+<figure>
+<center> 
+<img width="80%"" src='./images/atl06_landing_page.jpg'/>
+</center>
+</figure>
 
 ## Data Exploration in Earthdata Search
 
@@ -48,7 +56,11 @@ Key Functions of Earthdata Search:
 
 [NASA Webinar on Earthdata Search](https://www.youtube.com/watch?v=X97wSj_gzg4) by Mark Reese, Earthdata Search Product Owner.
 
-<img align="left" width="50%" height="200px" src='./images/EDSC_snowex23.png'/>     
+<figure>
+<center> 
+<img width="80%" src='./images/EDSC_snowex23.png'/>     
+</center>
+</figure>
 
 * [NASA Earthdata Search](https://search.earthdata.nasa.gov/)
     * Customization services from NSIDC are also available through this interface
