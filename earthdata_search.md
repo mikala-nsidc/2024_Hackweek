@@ -65,6 +65,7 @@ Step 6.  For direct S3 access to data in Earthdata Cloud, you need AWS S3 creden
 
 You now have the information you need to access data in NASA Earthdata Cloud.
 
-### Next up!  Using the earthaccess Python library to access data.  earthaccess can access data from NASA DAAC servers, as well as NASA Earthdata Cloud, and *you don't need to worry about S3 links or credentials - it's all handled for you.*
+### Next up!  
+##Using the earthaccess Python library to access data.  earthaccess can access data from NASA DAAC servers, as well as NASA Earthdata Cloud, and *you don't need to worry about S3 links or credentials - it's all handled for you.*
 
 
