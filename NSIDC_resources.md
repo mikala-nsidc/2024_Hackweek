@@ -2,7 +2,7 @@
 
 ### Learning Objectives
 
-Explore various resources for accessing ICESat-2, SnowEx, and other NASA Earthdata.
+Explore various resources for learning about and accessing ICESat-2, SnowEx, and other NASA Earthdata.
 
 ___
 
