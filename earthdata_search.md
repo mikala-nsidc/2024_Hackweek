@@ -1,4 +1,4 @@
-# Using NASA Earthdata Search to Discover Cloud-Hosted Data
+# Using NASA Earthdata Search to Discover Data
 
 ## Learning Objective
 
