@@ -21,7 +21,7 @@ NASA Earthdata Search is a web-based tool to discover, filter, visualize and acc
 
 Follow the instructions in this NSIDC help article:  [Search, Order, and Customize NSIDC DAAC Data Using NASA Earthdata Search](https://nsidc.org/data/user-resources/help-center/search-order-and-customize-nsidc-daac-data-nasa-earthdata-search).
 
-## Searching for data and S3 links using Earthdata Search
+## Searching for cloud-hosted data using Earthdata Search
 
 ### Search for Data
 
