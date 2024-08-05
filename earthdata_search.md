@@ -17,7 +17,7 @@ In this tutorial you will learn how to:
 
 NASA Earthdata Search is a web-based tool to discover, filter, visualize and access all of NASA's Earth science data, both in Earthdata Cloud and archived at the NASA DAACs.  It is a useful first step in data discovery, especially if you are not sure what data is available for your research problem.
 
-## Searching for and downloading DAAC server hosted data using Earthdata Search
+## Searching for and downloading NASA DAAC server hosted data using Earthdata Search
 
 Follow the instructions in this NSIDC help article:  [Search, Order, and Customize NSIDC DAAC Data Using NASA Earthdata Search](https://nsidc.org/data/user-resources/help-center/search-order-and-customize-nsidc-daac-data-nasa-earthdata-search).
 

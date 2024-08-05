@@ -1,23 +1,15 @@
-<figure>
-<center>
-   <img align="center" src='./images/nsidc_logo.png'/>
-</center>
-</figure>
+# Exploring NSIDC DAAC resources
 
-**Credits**
-Mikala Beig, Gail Reckase, Andy Barrett, Amy Steiker, and Luis Lopez
+### Learning Objectives
 
-## Objectives
-
-* Explore web-based and programmatic data search, visualization, and access methods.
-* Practice using the earthaccess Python library to access DAAC server (SnowEx) and Earthdata Cloud hosted data (ICESat-2).
+Explore various resources for accessing ICESat-2, SnowEx, and other NASA Earthdata.
 
 ___
 
 Reach out to us with data discovery and access questions!  Real people read the emails sent to nsidc@nsidc.org.  We are here to help make sure you get the data you need for your analysis.
 ___
 
-## NASA National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC)
+### NASA National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC)
 
 [The National Snow and Ice Data Center](https://nsidc.org) provides over 1100 data sets covering the Earth's cryosphere and more, all of which are available to the public free of charge. Beyond providing these data, NSIDC creates tools for data access, supports data users, performs scientific research, and educates the public about the cryosphere. 
 
@@ -27,7 +19,7 @@ ___
 </center>
 </figure>
    
-### Data Discovery Resources at nsidc.org:
+### Data set documentation, tools, and services at nsidc.org:
 
 * [The NSIDC ICESat-2 home page](https://nsidc.org/data/icesat-2) provides an overview of the data products and user resources available. 
     * Associated access, visualization, and data customization tools and services are provided on the [ICESat-2 Tools page](https://nsidc.org/data/icesat-2/tools).
@@ -43,18 +35,16 @@ ___
 </center>
 </figure>
 
-## Data Exploration in Earthdata Search
+### Data Exploration in Earthdata Search
 
 https://search.earthdata.nasa.gov/search
 
-Earthdata Search provides a graphical user interface for discovery of NASA data, and ordering and downloading data from its various archive locations. 
+Earthdata Search provides a graphical user interface for discovery of NASA data, and ordering and downloading data from its various archive locations. Earthdata Search leverages NASA's [Common Metadata Repository]( https://cmr.earthdata.nasa.gov/search/site/docs/search/api.html) (CMR), a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.
 
 Key Functions of Earthdata Search:
 1. Web mapping interface for discovering and visualizing NASA Earthdata using spatial and temporal filters.
 2. Customization services, including spatial subsetting, reformatting, and reprojection for *some* datasets.
 3. Data ordering and downloading.
-
-[NASA Webinar on Earthdata Search](https://www.youtube.com/watch?v=X97wSj_gzg4) by Mark Reese, Earthdata Search Product Owner.
 
 <figure>
 <center> 
@@ -62,15 +52,8 @@ Key Functions of Earthdata Search:
 </center>
 </figure>
 
-* [NASA Earthdata Search](https://search.earthdata.nasa.gov/)
-    * Customization services from NSIDC are also available through this interface
-* [Common Metadata Repository]( https://cmr.earthdata.nasa.gov/search/site/docs/search/api.html)
-    * The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs. 
-* [NASA EOSDIS move to the cloud](https://earthdata.nasa.gov/eosdis/cloud-evolution)
 
-* ## Additional resources to explore on your own
-
-### Data Exploration in OpenAltimetry
+### ICESat-2 Data Exploration in OpenAltimetry
 
 https://openaltimetry.org/
 
@@ -88,9 +71,9 @@ OpenAltimetry tutorials:
 
 [OpenAltimetry Tutorial](https://www.youtube.com/watch?v=ZanKXh1oQYc)  by Walt Meier, NSIDC DAAC Scientist.
 
-### SnowEx SQL Database
+### Data Exploration using the SnowEx SQL Database
 
 GitHub repository:  https://github.com/SnowEx/snowexsql
 
-### SnowEx Data Set Mapping Tool
+### Hackweek Project: SnowEx Data Set Mapping Tool
 SnowEx project lead by Jesslyn Di Fiori, NSIDC. This project aims to build a map-based web tool for cross-referencing SnowEx data sets.
