@@ -4,7 +4,7 @@ There is a host of different ways to access NASA Earth observing data.  This sec
 
 The tutorials are organized as follows:
 
-- [Overview](overview) provides an introduction to data access tools and offers some guidance on the capabilities and applicability of the different tools.
+- [Overview](overview.md) provides an introduction to data access tools and offers some guidance on the capabilities and applicability of the different tools.
 - [NSIDC DAAC and NASA Resources](NSIDC_resources.md) explores various resources for learning about and accessing ICESat-2, SnowEx, and other NASA Earthdata.  
 - [Using NASA EarthData Search to Discover Cloud-Hosted Data](earthdata_search.md) describes how to use the Earthdata Search GUI search interface for NASA data.  This is probably the simplest way to search for ICESat-2, SnowEx and other NASA data.
 - [Using `earthaccess` to Search for, Access and Download SnowEx Data in the Cloud](earthaccess.ipynb) presents a Python package to search for NASA datasets and granules, and to download those granules.
